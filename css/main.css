@@ -1,0 +1,52 @@
+h2, .h2 {
+    font-size: 3rem!important;
+    color: #fff;
+  }
+h3, .h3 {
+    font-size: 1.75rem!important;
+    color: #79C8C7;
+  }
+  p{
+    color: #fff;
+  }
+  .myteam{
+   background-color: #004047;;
+  }
+  .box{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #012F34;
+    
+  }
+  .plus{
+    position: relative;
+    width: 56px;
+    height: 56px;
+    background-color:  #F67E7E;
+    border-radius: 50%!important;
+   transform: translateY(50%);
+  }
+  .plus__img{
+    position: absolute;
+    top: 0t;
+    left: 0;
+    transform: translate(20px,20px)!important;
+    
+  }
+  .box1{
+    padding-left: 48px;
+    padding-right: 48px;
+  }
+
+  .box2{
+    position: relative;
+    
+  }
+  .plus1{
+    position: absolute;
+    bottom: 0;
+    transform: translateX(50);
+  }
