@@ -41,12 +41,4 @@ h3, .h3 {
     padding-right: 48px;
   }
 
-  .box2{
-    position: relative;
-    
-  }
-  .plus1{
-    position: absolute;
-    bottom: 0;
-    transform: translateX(50);
-  }
+
